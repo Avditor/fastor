@@ -1,4 +1,4 @@
-# 📇 CRM REST API — Node.js + Express + MongoDB (No Mongoose) + TypeScript
+# 📇 CRM REST API — Node.js + Express + MongoDB + TypeScript
 
 A simple and secure **CRM REST API** built using **Node.js**, **Express**, **TypeScript**, and the **native MongoDB driver** (no Mongoose).  
 It manages employee accounts and client enquiries with JWT-based authentication.
