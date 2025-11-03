@@ -35,10 +35,6 @@ npm install
 
 Make sure MongoDB is running locally or update the connection URI in `server.ts`:
 
-```ts
-const MONGO_URI = "mongodb://127.0.0.1:27017";
-```
-
 ### 3️⃣ Start the Server
 
 ```bash
